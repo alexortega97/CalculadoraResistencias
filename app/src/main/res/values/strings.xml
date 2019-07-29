@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ResistorApp</string>
+    <string name="negro">0</string>
+    <string name="cafe">1</string>
+    <string name="rojo">2</string>
+    <string name="naranja">3</string>
+    <string name="amarillo">4</string>
+    <string name="verde">5</string>
+    <string name="azul">6</string>
+    <string name="purpura">7</string>
+    <string name="gris">8</string>
+    <string name="blanco">9</string>
+    <string name="negro3">x 1</string>
+    <string name="cafe3">x 10</string>
+    <string name="rojo3">x 100</string>
+    <string name="naranja3">x 1.000</string>
+    <string name="amarillo3">x 10.000</string>
+    <string name="verde3">x 100.000</string>
+    <string name="azul3">x 1.000.000</string>
+    <string name="purpura3">x 10.000.000</string>
+    <string name="gris3">x 100.000.000</string>
+    <string name="blanco3">x 1.000.000.000</string>
+    <string name="cafe4">±1%</string>
+    <string name="rojo4">±2%</string>
+    <string name="oro">±5%</string>
+    <string name="plata">±10%</string>
+    <string name="tolerar">Tolerancia:</string>
+    <string name="Ttitulo">Código de Resistencias</string>
+    <string name="rta">Resultado:</string>
+</resources>
